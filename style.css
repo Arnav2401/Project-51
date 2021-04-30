@@ -1,0 +1,116 @@
+
+h1{color:black}
+h4{color:rgb(40, 1, 71)}
+h1{text-align: center;}
+h3{border:solid;}
+
+body{
+background-color:rgb(162, 202, 221);
+margin: 0px;
+}
+
+
+
+
+/* body{
+  background-image: url("images/1438516.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    
+} */
+
+
+
+/* .topics{
+  border: solid;
+  background-color: cornsilk;
+  width: 72px;
+}
+
+.topic{
+  border: solid;
+  background-color: cornsilk;
+  width: 75px;
+} */
+
+img {
+  border: solid;
+  border-color: rgb(0, 0, 0);
+}
+
+.hyperlinks{
+  /* border: solid; */
+ width: 75px; 
+ background-color:rgb(177, 164, 51);
+/* color: rgb(221, 184, 184); */
+display: flex;
+align-items: center;
+flex-direction: column;
+margin-left: 5px;
+}
+
+.suggestion{
+/* border: solid;
+color: black; */
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.grid{
+    /* border: solid;
+    color: black; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+    /* padding-right: 30px;
+    padding-left: 30px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.image{
+    /* border: solid;
+    color: black; */
+    display: flex;
+    flex-wrap: wrap;  
+    width: 305px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;  
+    margin-left: 11px;
+    margin-top: 11px;
+    margin-right: 11px;
+    margin-bottom: 11px;
+    background-color:#2d6e8f;
+    border-radius: 25px;
+    box-shadow: 10px 10px rgb(29, 29, 29);
+}
+ 
+.header{
+  /* border: solid; */
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  color: azure;
+}
+
+h5{
+  color: rgb(0, 0, 0);
+}
+
+
+/* .image2{
+/* border: solid;  */
+/* display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+} */ 
